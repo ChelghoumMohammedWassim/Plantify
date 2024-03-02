@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "41236700093",
+    "project_id": "ai-plants-app",
+    "storage_bucket": "ai-plants-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41236700093:android:c0fbf7a77f8064556c90d4",
+        "android_client_info": {
+          "package_name": "com.example.Plantify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpTRg1OrtvMPRTfW0WA-pnoskowOAzU2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
